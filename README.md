@@ -1,4 +1,4 @@
-#### About me 
+### About me 
 
 
   начал интересоваться в 2022 году разработкой, с тех пор изучил технологии которыми пользуются . на данный момент делаю сайты на заказ и если время позволяет то и пет-проекты чтобы     закрепить знания по теме
@@ -20,10 +20,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0b3a5c?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-0b3a5c?style=for-the-badge&logo=react)
 ![SCSS](https://img.shields.io/badge/-SCSS-0b3a5c?style=for-the-badge&logo=sass)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0b3a5c?style=for-the-badge&logo=postgresql)
 
 
 
-### contact me 
+
+### Contact me 
 
  tg: https://t.me/Demid_Mishukov
  
