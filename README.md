@@ -15,12 +15,13 @@
 
 
 
-#### Languages and Tools
-
+### Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0b3a5c?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-0b3a5c?style=for-the-badge&logo=react)
 ![SCSS](https://img.shields.io/badge/-SCSS-0b3a5c?style=for-the-badge&logo=sass)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0b3a5c?style=for-the-badge&logo=postgresql)
+![GitHub](https://img.shields.io/badge/-GitHub-0b3a5c?style=for-the-badge&logo=github)
+
 
 
 
