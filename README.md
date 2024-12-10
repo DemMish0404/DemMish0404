@@ -1,4 +1,8 @@
-## Hi there 👋
+#### Languages and Tools
+![TypeScript](https://img.shields.io/badge/-TypeScript-0b3a5c?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-0b3a5c?style=for-the-badge&logo=react)
+![SCSS](https://img.shields.io/badge/-SCSS-0b3a5c?style=for-the-badge&logo=sass)
+
 
 <!--
 **DemMish0404/DemMish0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
